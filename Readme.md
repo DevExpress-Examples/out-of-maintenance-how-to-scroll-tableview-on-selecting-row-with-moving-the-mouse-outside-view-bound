@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [GridSelectingBehavior.cs](./CS/DXGridSample/GridSelectingBehavior.cs) (VB: [GridSelectingBehavior.vb](./VB/DXGridSample/GridSelectingBehavior.vb))
+* [ScrollController.cs](./CS/DXGridSample/ScrollController.cs) (VB: [ScrollController.vb](./VB/DXGridSample/ScrollController.vb))
+* [Window1.xaml](./CS/DXGridSample/Window1.xaml) (VB: [Window1.xaml](./VB/DXGridSample/Window1.xaml))
+* [Window1.xaml.cs](./CS/DXGridSample/Window1.xaml.cs) (VB: [Window1.xaml](./VB/DXGridSample/Window1.xaml))
+<!-- default file list end -->
 # How to scroll TableView on selecting row with moving the mouse outside view bounds
 
 
